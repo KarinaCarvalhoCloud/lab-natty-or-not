@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Interações Medicamentosas - Assistente IA</title>
+
+    <!-- FONTES -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet" />
+
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            font-family: "Inter", sans-serif;
+        }
+
+        body {
+            background: linear-gradient(135deg, #0a0f1f, #162440);
+            color: #ffffff;
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+
+        .container {
+            max-width: 850px;
+            margin: 0 auto;
+            background: rgba(255, 255, 255, 0.05);
+            padding: 40px;
+            border-radius: 20px;
+            backdrop-filter: blur(10px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+        }
+
+        h1 {
+            font-size: 2.4rem;
+            font-weight: 700;
+            margin-bottom: 15px;
+            text-align: center;
+            color: #00b7ff;
+        }
+
+        h2 {
+            margin-top: 30px;
+            color: #7bc9ff;
+            font-weight: 600;
+        }
+
+        p {
+            opacity: 0.9;
+            line-height: 1.7;
+            margin-bottom: 20px;
+            font-size: 1.05rem;
+        }
+
+        .illustration {
+            width: 100%;
+            max-width: 500px;
+            display: block;
+            margin: 25px auto;
+            border-radius: 12px;
+            border: 1px solid rgba(255, 255, 255, 0.2);
+        }
+
+        .button {
+            display: inline-block;
+            margin-top: 20px;
+            background: #00b7ff;
+            padding: 12px 22px;
+            border-radius: 10px;
+            font-weight: 600;
+            text-decoration: none;
+            color: #000;
+            transition: 0.3s;
+        }
+
+        .button:hover {
+            background: #4ad9ff;
+            transform: scale(1.03);
+        }
+
+        footer {
+            text-align: center;
+            margin-top: 35px;
+            opacity: 0.5;
+            font-size: 0.9rem;
+        }
+    </style>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>Assistente de Interações Medicamentosas (IA)</h1>
+
+        <img src="illustration.png" alt="Dentista usando IA" class="illustration">
+
+        <p>
+            Este projeto demonstra um sistema inteligente capaz de auxiliar profissionais de saúde — principalmente dentistas — 
+            na identificação rápida e segura de interações medicamentosas.
+        </p>
+
+        <p>
+            Combinando **Inteligência Artificial, análise farmacológica e design acessível**, a ferramenta entrega resultados 
+            claros, reduz riscos clínicos e melhora a tomada de decisão dentro do consultório.
+        </p>
+
+        <h2>🎧 Áudio Explicativo</h2>
+        <p>Ouça a versão narrada sobre o funcionamento e propósito deste projeto:</p>
+
+        <audio controls style="width:100%; margin-top:10px;">
+            <source src="audio.mp3" type="audio/mpeg" />
+            Seu navegador não suporta áudio.
+        </audio>
+
+        <h2>📄 Funcionalidades</h2>
+        <p>
+            ✔ Consulta automatizada de interações<br>
+            ✔ Interface simples e profissional<br>
+            ✔ Explicações técnicas claras<br>
+            ✔ Arquitetura pronta para expansão (API / banco de dados / IA)
+        </p>
+
+        <h2>📦 Como rodar</h2>
+        <p>
+            Basta clonar este repositório e abrir o arquivo <strong>index.html</strong> no navegador.
+        </p>
+
+        <footer>Desenvolvido por Ana Karina • Cloud & AI Engineering</footer>
+
+    </div>
+
+</body>
+</html>
