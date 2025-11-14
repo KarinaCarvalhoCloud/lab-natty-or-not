@@ -57,7 +57,7 @@ Para ouvir a narração do projeto:
 
 A imagem ilustrativa do projeto foi criada com modelo generativo e representa o uso de IA aplicada à prática odontológica.
 
-<img src="https://i.ibb.co/hK5X7Rj/natty-ou-fake-natty-assistente-ia-para-interacoes-medicamentosas-na-odontologia.png" width="400" alt="Imagem Ilustrativa do Projeto Odontológico com IA">
+<img src="imagem-projeto.png" width="500" alt="Dentista usando assistente IA para interações medicamentosas">
 
 ---
 
