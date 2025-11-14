@@ -1,55 +1,82 @@
-🌐 Natural ou Fake Natty? — IA na Odontologia
-🦷 Assistente de Interações Medicamentosas usando IA Generativa
+# 🦷 Natural ou Fake Natty? — Assistente IA para Interações Medicamentosas na Odontologia
 
+## 📘 Descrição do Projeto
 
-🖼️ Preview do Projeto
-[Imagem do Projeto](imagem-projeto.png)
+Este projeto foi desenvolvido como parte do Lab "**Natural ou Fake Natty?**" da DIO, explorando o uso de IAs Generativas para criar conteúdos realistas, úteis e aplicáveis ao dia a dia profissional.
 
-📘 Descrição
+Aqui, construí um assistente virtual inteligente, voltado para apoiar dentistas na identificação de possíveis interações medicamentosas, tornando o atendimento mais **seguro**, **rápido** e **embasado**.
 
-Este projeto faz parte do Lab Natural ou Fake Natty? da DIO e demonstra como utilizar IAs Generativas para criar conteúdo realista, técnico e útil no contexto da Odontologia.
-Aqui, desenvolvi um Assistente Virtual capaz de explicar possíveis interações medicamentosas comuns na prática clínica, usando IA para tornar o atendimento mais seguro e eficaz.
+O projeto reúne texto, imagem e áudio, todos gerados ou aprimorados com Inteligência Artificial.
 
-🤖 Tecnologias Utilizadas
+---
 
-ChatGPT — geração de texto técnico
+## 🤖 Tecnologias Utilizadas
 
-Ferramenta de geração de imagens (DALL·E/Firefly/Midjourney)
+* **ChatGPT** – geração e refinamento do texto técnico
+* **Ferramenta de geração de imagem (IA)** – criação de ilustração para o projeto
+* **ElevenLabs** – geração de áudio com voz feminina, técnica e firme
+* **HTML + CSS** – construção da página visual do projeto
+* **GitHub** – versionamento e documentação
 
-ElevenLabs — geração de áudio
+---
 
-GitHub — versionamento e documentação
+## 🧪 Objetivo do Projeto
 
-🧠 Processo de Criação
+Explorar o potencial das IAs Generativas criando conteúdos “natty” (naturais) e realistas, integrando:
 
-Escolha do tema: interações medicamentosas para dentistas
+* ✔️ Texto
+* ✔️ Imagem
+* ✔️ Áudio
+* ✔️ Página web
+* ✔️ Documentação profissional
 
-Pesquisa dos principais fármacos prescritos
+Tudo isso para fortalecer o portfólio e demonstrar domínio de tecnologias emergentes.
 
-Geração de texto técnico e roteiro de áudio com IA
+---
 
-Criação da arte ilustrativa com modelo generativo
+## 🧠 Processo de Criação
 
-Edição e estruturação do README
+* **Escolha do Tema:** Interações medicamentosas para dentistas — área essencial, complexa e pouco explorada por IA.
+* **Geração do Texto Técnico:** Criado com IA, ajustado para clareza, precisão e linguagem profissional.
+* **Criação da Arte:** Imagem produzida usando modelo generativo, simulando consulta odontológica moderna.
+* **Produção do Áudio:** Geração de narração com voz feminina, firme e técnica, tornando o conteúdo acessível e imersivo.
+* **Construção da Página:** Estruturação de uma landing page simples e elegante utilizando **HTML + CSS**.
+* **Publicação do Projeto:** Arquivos organizados e submetidos ao **GitHub**, com documentação clara e visual.
 
-Subida do projeto completo para o GitHub
+---
 
-🎧 Áudio Explicativo
-[Clique aqui para ouvir o áudio](audio-projeto.mp3)
+## 🎧 Áudio Explicativo
 
-🚀 Resultados
+Para ouvir a narração do projeto:
 
-Imagem ilustrativa criada totalmente com IA
+👉 [Clique aqui para ouvir o áudio](audio-projeto.mp3)
 
-Roteiro técnico ampliado e natural
+---
 
-Áudio gerado com IA (voz feminina, firme e técnica)
+## 🖼️ Imagem Gerada com IA
 
-README estruturado como um mini case profissional
+A imagem ilustrativa do projeto foi criada com modelo generativo e representa o uso de IA aplicada à prática odontológica.
 
-Projeto pronto para compor o portfólio
+![Imagem Ilustrativa do Projeto Odontológico com IA](imagem-projeto.png)
 
+---
 
-💬 Reflexão
+## 🚀 Resultado Final
 
-Criar conteúdo “natty” usando IA é desafiador, pois, quanto mais natural o resultado, maior o impacto. Trabalhar com interações medicamentosas me mostrou como a IA pode servir como aliada na prática odontológica, ajudando na tomada de decisão e promovendo segurança clínica, muito importante no dia a dia dos profissionais de saúde. 
+Este projeto demonstra na prática:
+
+* Criação de conteúdo multimídia com **IA**
+* Integração de **texto + imagem + áudio**
+* Uso de técnicas modernas de documentação
+* Capacidade técnica + criatividade
+* Domínio de ferramentas de **IA generativa**
+* Construção de um artefato real para portfólio
+
+É um exemplo direto de como a IA pode ajudar profissionais da saúde, especialmente dentistas, a trabalhar com mais **segurança** e **precisão**.
+
+---
+
+## 💬 Reflexão
+
+Criar algo “natty” com IA é desafiador porque exige que o conteúdo pareça humano, natural e crível.
+O processo deixa claro que a IA não substitui o profissional, mas amplia sua capacidade, **acelera pesquisas** e **melhora a tomada de decisão**, especialmente em áreas técnicas como Odontologia, ajudando na tomada de decisão e promovendo segurança clínica, muito importante no dia a dia dos profissionais de saúde. 
